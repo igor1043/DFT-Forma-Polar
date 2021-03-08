@@ -5,6 +5,11 @@
 #include <iomanip>
 #include <fstream>
 #include <complex>
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 using namespace std;
 int main() {
     ofstream saida("DFTPolar.txt");
